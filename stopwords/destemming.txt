@@ -1,0 +1,7 @@
+robots : robot
+languages : language
+learning : learn
+systems : system
+faces : face
+features : feature
+images : image
